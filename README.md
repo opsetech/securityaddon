@@ -1,9 +1,9 @@
 # Security addon - 7.0 BETA
 
-This app made for emergency case. It can delete/clear selected apps, delete files and folder and crypt files with AES-256 and your password. It can be launched from fake shortcut and sms! It has own powerful API wich anybody can use!
-> This version was special maded for Privacy Accelerator!
+This app is made for emergency situations. It can delete/clear selected apps, delete files and folders and encrypt files with AES-256 and your password. It can be launched from fake shortcut and sms! It has its own powerful API which anybody can use!
+> This version was specialy made for Privacy Accelerator!
 # Changelog
-- Anti-thieft fucntions
+- Anti-theft fucntions
 - GPS command
 - Lock command
 - Factory reset command
@@ -20,9 +20,9 @@ This app made for emergency case. It can delete/clear selected apps, delete file
 Delete files and folders
 - Silent without root
 
-Crypt with aes-256
+Encrypt with aes-256
 - Set own non 16 character password(app will autogenerate to 16)
-- Crypt all files inside folder
+- Encrypt all files inside folder
 
 SMS
 - Set code word or phrase
@@ -50,12 +50,12 @@ When we need to use it?
 
 What can api do?
 - Delete files
-- Crypt files/folders
+- Encrypt files/folders
 - Decrypt files/folders
 
 How to?
 3 modes:
-> delete, crypt, decrypt
+> delete, encrypt, decrypt
 
 You need send to api wth extras:  mode, path to folder or files(s) (as arraylist) and for last 2 modes - password.
 Example:
